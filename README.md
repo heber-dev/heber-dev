@@ -1,9 +1,5 @@
 ## Welcome to my ADVENTURE ! 
 
-<div align="none">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
-
 ### Biografia
 ##### Meu nome é Heber Gomes de Paula, tenho 38 anos e resido em Guarulhos/SP. </br>
 ##### Atualmente estou uma disponivel no mercado de trabalho, mas meu objetivo é conseguir me inserir na carreira de dev o quanto antes. 
